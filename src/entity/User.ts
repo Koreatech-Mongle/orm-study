@@ -1,5 +1,5 @@
 import { Column, Entity, OneToMany, PrimaryGeneratedColumn } from "typeorm";
-import { Card } from "./Card.mjs";
+import { Card } from "./Card";
 import { Container } from "./Container";
 import { Model } from "./Model";
 
